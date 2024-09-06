@@ -1,3 +1,15 @@
 央视频道,#genre#
+CCTV17,http://183.10.180.51:9999/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV台球,http://183.10.180.51:9999/tsfile/live/1027_1.m3u8?key=txiptv&playlive=0&authid=0
 卫视频道,#genre#
+三沙卫视,http://183.10.180.51:9999/tsfile/live/1025_1.m3u8?key=txiptv&playlive=0&authid=0
+大湾区卫视,http://183.10.180.51:9999/tsfile/live/1023_1.m3u8?key=txiptv&playlive=0&authid=0
 其他频道,#genre#
+精选1,http://183.10.180.51:9999/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
+iptv谍战电影,http://183.10.180.51:9999/tsfile/live/1092_1.m3u8?key=txiptv&playlive=1&authid=0
+国学,http://183.10.180.51:9999/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
+女性时尚,http://183.10.180.51:9999/tsfile/live/1029_1.m3u8?key=txiptv&playlive=0&authid=0
+广东少儿,http://183.10.180.51:9999/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+广东影视,http://183.10.180.51:9999/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+风云剧场,http://183.10.180.51:9999/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+高尔夫网球,http://183.10.180.51:9999/tsfile/live/1028_1.m3u8?key=txiptv&playlive=0&authid=0
