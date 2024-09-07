@@ -1,17 +1,1 @@
 #EXTM3U
-#EXTINF:-1 group-title="央视频道",CCTV台球
-http://183.10.180.51:9999/tsfile/live/1027_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道",三沙卫视
-http://183.10.180.51:9999/tsfile/live/1025_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="其他频道",iptv谍战电影
-http://183.10.180.51:9999/tsfile/live/1092_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",国学
-http://183.10.180.51:9999/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",女性时尚
-http://183.10.180.51:9999/tsfile/live/1029_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="其他频道",热搏剧场
-http://183.10.180.51:9999/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",风云音乐
-http://183.10.180.51:9999/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",高尔夫网球
-http://183.10.180.51:9999/tsfile/live/1028_1.m3u8?key=txiptv&playlive=0&authid=0
