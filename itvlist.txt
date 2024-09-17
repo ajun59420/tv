@@ -1,3 +1,6 @@
 央视频道,#genre#
 卫视频道,#genre#
 其他频道,#genre#
+XF北流台,http://222.217.247.43:8181/tsfile/live/1078_1.m3u8?key=txiptv&playlive=1&authid=0
+XF有线电影,http://222.217.247.43:8181/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
+少儿动画,http://222.217.247.43:8181/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
