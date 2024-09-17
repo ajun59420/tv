@@ -1,1 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="其他频道",XF北流台
+http://222.217.247.43:8181/tsfile/live/1078_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",XF有线电影
+http://222.217.247.43:8181/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",少儿动画
+http://222.217.247.43:8181/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
