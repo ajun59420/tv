@@ -32,6 +32,7 @@ CCTV17,http://219.159.194.13:8181/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&
 广东卫视,http://219.159.194.13:8181/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 广西卫视,http://219.159.194.13:8181/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 康巴卫视,http://219.159.194.13:8181/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0
+旅游卫视,http://219.159.194.13:8181/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://219.159.194.13:8181/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://219.159.194.13:8181/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://219.159.194.13:8181/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -40,7 +41,6 @@ CCTV17,http://219.159.194.13:8181/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&
 湖北卫视,http://219.159.194.13:8181/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://219.159.194.13:8181/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://219.159.194.13:8181/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
-西藏卫视,http://219.159.194.13:8181/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://219.159.194.13:8181/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://219.159.194.13:8181/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://219.159.194.13:8181/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -48,7 +48,6 @@ CCTV17,http://219.159.194.13:8181/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&
 青海卫视,http://219.159.194.13:8181/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视+,http://219.159.194.13:8181/tsfile/live/0143_2.m3u8?key=txiptv&playlive=1&authid=0
 其他频道,#genre#
-中国气象,http://219.159.194.13:8181/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 动作电影,http://219.159.194.13:8181/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 南宁公共,http://219.159.194.13:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 南宁影视,http://219.159.194.13:8181/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
