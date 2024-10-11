@@ -1,1 +1,13 @@
 #EXTM3U
+#EXTINF:-1 group-title="央视频道",CCTV11
+http://119.129.173.62:9999/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",嘉佳卡通
+http://119.129.173.62:9999/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",广东体育
+http://119.129.173.62:9999/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",广东公共
+http://119.129.173.62:9999/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",金鹰卡通
+http://119.129.173.62:9999/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",金鹰卡通
+http://119.129.173.35:9999/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
